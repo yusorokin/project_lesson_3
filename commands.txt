@@ -1,0 +1,10 @@
+ 1843  git br --remotes 
+ 1844  git co develop 
+ 1845  git merge origin/new_branch 
+ 1846  git show
+ 1847  git merge another_branch
+ 1848  vi textfile.md
+ 1849  git merge --continue 
+ 1850  git add textfile.md
+ 1851  git merge --continue 
+ 1852  git show
